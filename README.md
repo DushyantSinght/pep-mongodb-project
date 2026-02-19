@@ -332,15 +332,6 @@ db.getCollectionInfos({ name: "users" })[0].options.validator
 
 ---
 
-## 📚 Learning Resources
-
-- [MongoDB Manual](https://docs.mongodb.com/manual/)
-- [Aggregation Pipeline](https://docs.mongodb.com/manual/aggregation/)
-- [Schema Validation](https://docs.mongodb.com/manual/core/schema-validation/)
-- [Indexing Strategies](https://docs.mongodb.com/manual/applications/indexes/)
-
----
-
 ## ✨ Features Highlights
 
 - 🎓 **7 Collections** - Complete e-learning database
